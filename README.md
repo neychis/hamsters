@@ -1,2 +1,0 @@
-# hamsters
-Created with CodeSandbox
